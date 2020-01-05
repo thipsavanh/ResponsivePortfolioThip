@@ -1,0 +1,86 @@
+.navbar-brand{
+    font-family: 'Bungee Inline', cursive;
+}
+
+.bg-light{
+    background-color: rgb(240, 212, 196)!important;
+    border-bottom: 10px solid rgb(197, 124, 136);
+}
+
+.navbar-light .navbar-brand{
+    color: rgb(197, 124, 136);
+    font-size: 30px;
+}
+
+.navbar-nav{
+    font-family: 'Cinzel', serif;
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+    color: rgb(197, 124, 136));
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: rgb(197, 124, 136) ;
+}
+
+.navbar-expand-lg .navbar-collapse{
+    
+}
+
+.wholebody{
+    background-image: url(../images/sakura.png);
+    font-family: 'Laila', serif;
+    height: max-content;
+}
+
+.jumbotron{
+    margin-bottom: 0px;
+}
+
+.jumbotron.jumbotron-fluid{
+    color: white;
+    background-color: rgb(247, 186, 150);
+    border-bottom: 10px solid rgb(197, 124, 136) ;
+}
+
+.form-group{
+  padding: 20px;
+}
+
+.display-4{
+    font-family: 'Cinzel', serif;
+    color: white;
+}
+
+.col-sm{
+    justify-content: center ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.container{
+    color:rgb(119, 119, 119);  
+}
+
+.card{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-primary{
+    color: rgb(119, 119, 119);
+    background-color: white;
+    border-color: rgb(119, 119, 119);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.footer, .push{
+    background-color:rgb(247, 186, 150) ;
+    height: 80px;
+}
+
+.footer{
+    border-top: 10px solid rgb(197, 124, 136);
+}
