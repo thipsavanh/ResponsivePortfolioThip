@@ -24,10 +24,6 @@
     color: rgb(197, 124, 136) ;
 }
 
-.navbar-expand-lg .navbar-collapse{
-    
-}
-
 .wholebody{
     background-image: url(../images/sakura.png);
     font-family: 'Laila', serif;
@@ -49,6 +45,7 @@
 }
 
 .display-4{
+    margin-top: 30px;
     font-family: 'Cinzel', serif;
     color: white;
 }
